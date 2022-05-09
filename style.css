@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link{
+    text-transform: uppercase;
+}
+img{
+    width: auto;
+    height: 400px;
+    object-fit: cover;
+    overflow: hidden;
+}
+h5{
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    font-weight: 10px;
+    font-style: oblique;
+}
+.footer-menu{
+    margin-right: 20px;
+    text-decoration: none;
+    color: beige;
+    list-style: none;
+}
+.footer-logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    
+}
+.footer-redes{
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+}
